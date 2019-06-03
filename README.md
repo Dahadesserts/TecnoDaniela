@@ -1,9 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Dahadesserts/TecnoDaniela/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## La tecnologia de hoy
+<img src="https://www.google.com.co/url?sa=i&source=images&cd=&ved=2ahUKEwiW_cW5rc7iAhWECTQIHUnOCFEQjRx6BAgBEAU&url=http%3A%2F%2Fbellalavita.ru%2Ftorgovie-platformi%2F&psig=AOvVaw08lAusojXFobBs0w6Cx_6h&ust=1559687119381708"/>
+Daniela besame pls
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
