@@ -1,4 +1,4 @@
-## La tecnologia de hoy
+# La tecnologia de hoy
 
 <img src="https://afisha.a42.ru/uploads/posters/b8/b87bce60-51a8-11e7-ad5a-438c382d8efd.jpg"/>
 
