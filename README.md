@@ -11,4 +11,4 @@ Salmo elegido | Publicidad
 
 ### No lo pienses mas, unete!
 
-<img src="https://www.steren.cr/media/catalog/product/cache/10f519365b01716ddb90abc57de5a837/k/-/k-910_3.jpg"/>
+<img src="https://www.steren.cr/media/catalog/product/cache/10f519365b01716ddb90abc57de5a837/k/-/k-910_3.jpg" width="600" height="600"/>
