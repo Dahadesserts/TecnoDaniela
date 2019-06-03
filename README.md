@@ -1,5 +1,5 @@
 ## La tecnologia de hoy
-<img src="https://www.google.com.co/url?sa=i&source=images&cd=&ved=2ahUKEwiW_cW5rc7iAhWECTQIHUnOCFEQjRx6BAgBEAU&url=http%3A%2F%2Fbellalavita.ru%2Ftorgovie-platformi%2F&psig=AOvVaw08lAusojXFobBs0w6Cx_6h&ust=1559687119381708"/>
+<img src="https://afisha.a42.ru/uploads/posters/b8/b87bce60-51a8-11e7-ad5a-438c382d8efd.jpg"/>
 Daniela besame pls
 ### Markdown
 
