@@ -1,6 +1,9 @@
 ## La tecnologia de hoy
+
 <img src="https://afisha.a42.ru/uploads/posters/b8/b87bce60-51a8-11e7-ad5a-438c382d8efd.jpg"/>
-Daniela besame pls
+
+La tecnología actual en nuestra sociedad. Las personas, tanto las que están estudiando como las que ya han finalizado su etapa de aprendizaje, tenemos la obligación de conocer cada vez más sobre el funcionamiento de las nuevas tecnologías
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
